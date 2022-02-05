@@ -38,10 +38,59 @@ For specific chapter information, see the [Readings]({{< baseurl >}}/pages/readi
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 80% |
-|  {{< br >}}{{< br >}} Pop quizzes and surveys {{< br >}}{{< br >}} _During some lectures, there will be pop quizzes or surveys. A pop quiz consists of multiple choice questions on material discussed in the current or preceding lecture. You'll have to answer a quiz correctly to get credit. A pop survey is a questionnaire aimed at figuring out where the group stands on some issue. All it takes to get full credit on a survey is to participate. Your final Pop Quiz and Survey grade is the result of averaging your pop quiz and survey scores across the semester, after dropping your lowest score._ {{< br >}}{{< br >}}  | 15% |
-|  {{< br >}}{{< br >}} Recitation section attendance {{< br >}}{{< br >}} _Attending recitation sections is mandatory. For each recitation meeting, you will be assigned a grade of 100% if you attend, or 0% if you fail to attend. (Tardiness may count as an absence, at your TA's discretion.) Your lowest attendance grade will be dropped._ {{< br >}}{{< br >}}  | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Pop quizzes and surveys
+
+_During some lectures, there will be pop quizzes or surveys. A pop quiz consists of multiple choice questions on material discussed in the current or preceding lecture. You'll have to answer a quiz correctly to get credit. A pop survey is a questionnaire aimed at figuring out where the group stands on some issue. All it takes to get full credit on a survey is to participate. Your final Pop Quiz and Survey grade is the result of averaging your pop quiz and survey scores across the semester, after dropping your lowest score._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Recitation section attendance
+
+_Attending recitation sections is mandatory. For each recitation meeting, you will be assigned a grade of 100% if you attend, or 0% if you fail to attend. (Tardiness may count as an absence, at your TA's discretion.) Your lowest attendance grade will be dropped._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For information on the problem sets, see the [Assignments]({{< baseurl >}}/pages/assignments) section.

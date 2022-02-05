@@ -10,17 +10,165 @@ All readings can be found in the following textbook: 
 
 The following document should also be utilized: [_On the Brink of Paradox_: List of Known Errors (PDF)]({{< baseurl >}}/resources/mit24_118s19_errors).
 
-| LEC # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | No assigned reading |
-| 2–4 | Infinite Cardinalities  | Chapter 1  |
-| 5–7 | The Higher Infinite  | Chapter 2  |
-| 8–9 | Omega-Sequence Paradoxes | Chapter 3  |
-| 10–11 | Time Travel  | Chapter 4 |
-| 12–13 | Newcomb's Problem  | Chapter 5 |
-| 14–15 | Probability | Chapter 6 |
-| 16–17 | Non-Measurable Sets  | Chapter 7 |
-| 18–19 | The Banach-Tarski Theorem | Chapter 8 |
-| 20–22 | Computability  | Chapter 9 |
-| 23–24 | Gödel's Theorem  | Chapter 10 |
-| 25–26 | Review  | No assigned reading
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2–4
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite Cardinalities 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 1 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5–7
+{{< tdclose >}}
+{{< tdopen >}}
+The Higher Infinite 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 2 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8–9
+{{< tdclose >}}
+{{< tdopen >}}
+Omega-Sequence Paradoxes
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 3 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Time Travel 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12–13
+{{< tdclose >}}
+{{< tdopen >}}
+Newcomb's Problem 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14–15
+{{< tdclose >}}
+{{< tdopen >}}
+Probability
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16–17
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Measurable Sets 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18–19
+{{< tdclose >}}
+{{< tdopen >}}
+The Banach-Tarski Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20–22
+{{< tdclose >}}
+{{< tdopen >}}
+Computability 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23–24
+{{< tdclose >}}
+{{< tdopen >}}
+Gödel's Theorem 
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25–26
+{{< tdclose >}}
+{{< tdopen >}}
+Review 
+{{< tdclose >}}
+{{< tdopen >}}
+No assigned reading
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

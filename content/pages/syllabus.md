@@ -21,7 +21,7 @@ Difficulty
 
 Here are the levels of philosophical and mathematical demandingness of each of the topics we'll discuss:
 
-![A graph showing the levels of philosophical and mathematical demandingness of the topics discussed in the class.](/courses/linguistics-and-philosophy/24-118-paradox-and-infinity-spring-2019/syllabus-image.jpg)
+{{< resource "36a0be91-270a-684f-988d-d77314b882c7" >}}
 
 *   On the **philosophical** side, a demandingness level of 100% means that some of the ideas we'll be discussing are rather subtle; you won't need philosophical training to understand them, but you'll have to think about them very carefully.
 *   On the **mathematical** side, a demandingness level of 100% means that the lecture is designed for someone who is familiar with college-level mathematics or is otherwise experienced in mathematical proof.
